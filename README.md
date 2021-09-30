@@ -1,7 +1,11 @@
-# Ame-Smart-Contract-Cross-Chain
+ <div align="center">
+ <h1>Ame-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
-A diagram showing the transmission of electricity to the public.
+ <p>
+    <strong>A diagram showing the transmission of electricity to the public. </strong>
+  </p>
+
 
 Industry model ::
     Renewable Energy Power Plant Industry Development Research Division
@@ -12,10 +16,11 @@ Technology and working principle ::
   
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/diagram-lending.svg" />
       
-
-       AME run in platform, The technology on cross microfrid plug connect to follow up. Real-time energy trading and also in decentralized pool-based lending protocol built.
-Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol.
-
+       
+  <p>
+    <strong>  AME run in platform, The technology on cross microfrid plug connect to follow up. Real-time energy trading and also in decentralized pool-based lending protocol built.
+Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. </strong>
+  </p>
 
         Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest on their digital assets (assets) by supplying
 supported assets into the protocol. We call these users lenders. AME and Rest deposited by lenders will be transferred into a smart contract that aggregates total liquidity of
