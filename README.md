@@ -12,7 +12,7 @@ Technology and working principle ::
    
       AME run in platform. The technology on cross microgrid plug connect to follow up. Real-time energy trading and also is decentralized
 pool-based lending protocol built .Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol.
-      
+
       Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest 
 on their digital assets (assets) by supplying supported assets into the protocol. We call these users lenders. Assets deposited by lenders 
 will be transferred into a smart contract that aggregates total liquidity of each asset into a pooled fund, which is available for borrowers
