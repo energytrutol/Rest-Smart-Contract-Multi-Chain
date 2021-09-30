@@ -37,7 +37,7 @@ concept and benefits ::
 
 See individual crates for documentation. For example, to build the edax see its [README](https://github.com/energytrutol/edax-dex/3v/masterplan/dex).
 
-## Running a local Edax Chain cluster
+## Running a local Cross Chain cluster
 
 
  Website: https://amev.io/</br>
