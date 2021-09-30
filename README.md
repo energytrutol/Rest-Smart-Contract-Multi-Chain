@@ -1,4 +1,4 @@
- <div align="center">
+
  <h1>Ame-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
@@ -22,7 +22,7 @@ Technology and working principle ::
 Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. </strong></p>
   <p>
    
- <strong>Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. We call these users lenders. AME and Rest deposited by lenders will be transferred into a smart contract that aggregates total liquidity of each asset into a pooled fund, which is available for borrowers,to borrow. Loans are not matched individually between lenders and borrowers, but are taken from the pooled fund. Interest lenders earn come from interest that borrowers pay, distributed proportionately to the liquidity they provide.</strong></p>
+ <strong>  Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. We call these users lenders. AME and Rest deposited by lenders will be transferred into a smart contract that aggregates total liquidity of each asset into a pooled fund, which is available for borrowers,to borrow. Loans are not matched individually between lenders and borrowers, but are taken from the pooled fund. Interest lenders earn come from interest that borrowers pay, distributed proportionately to the liquidity they provide.</strong></p>
 
 concept and benefits ::
         Ample energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”.
