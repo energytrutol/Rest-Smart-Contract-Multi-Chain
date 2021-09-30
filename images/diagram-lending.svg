@@ -18,7 +18,7 @@
 		.st3 {visibility:visible}
 		.st4 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
 		.st5 {fill:url(#grad30-15);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st6 {fill:#000000;font-family:04b08;font-size:1.00001em}
+		.st6 {fill:#00b050;font-family:Mistral;font-size:2.50001em}
 		.st7 {stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
 		.st8 {stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
 		.st9 {stroke:#cdcdcd;stroke-dasharray:0.5,1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.5}
@@ -3088,7 +3088,7 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<title>Multi state</title>
-			<desc>REST</desc>
+			<desc>R</desc>
 			<g id="shape8-10" v:mID="8" v:groupContext="shape" v:layerMember="0">
 				<title>Sheet.8</title>
 				<v:userDefs>
@@ -3114,7 +3114,7 @@
 				<v:textRect cx="24.0945" cy="571.181" width="48.19" height="48.189"/>
 				<g id="shadow7-20" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 						transform="matrix(1,0,0,1,1.44,1.44)" class="st3"/>
-				<text x="9.08" y="574.78" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>REST</text>			</g>
+				<text x="17.17" y="580.18" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>R</text>			</g>
 		</g>
 		<g id="shape19-22" v:mID="19" v:groupContext="shape" transform="translate(486.12,857.459) rotate(135)">
 			<title>Sheet.19</title>
@@ -4426,7 +4426,7 @@
 		</g>
 		<g id="shape39-199" v:mID="39" v:groupContext="shape" transform="translate(18,-179.252)">
 			<title>Sheet.39</title>
-			<desc>Other defi Produce</desc>
+			<desc>Real Estate</desc>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
@@ -4434,7 +4434,7 @@
 			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
 			<v:textRect cx="49" cy="590.276" width="98" height="10"/>
 			<rect x="0" y="585.276" width="98" height="10" class="st11"/>
-			<text x="8.53" y="593.28" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Other defi Produce</text>		</g>
+			<text x="24.98" y="593.28" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Real Estate</text>		</g>
 		<g id="shape18-202" v:mID="18" v:groupContext="shape" transform="translate(663.307,425.197) rotate(90)">
 			<title>Sheet.18</title>
 			<v:userDefs>
