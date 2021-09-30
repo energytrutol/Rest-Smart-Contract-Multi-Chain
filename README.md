@@ -10,8 +10,8 @@ Solar Farm Renewable Power Plant Industry  Ample Energy (AME),  will connect the
 Technology and working principle ::
        This class of platform application solutions lays out smart contract terms for renewable energy traders for digital certification. An asset is a transaction between an organization and an organization to a community. Through management through blockchain technology, it builds the credibility of digital asset equity capital. and intermediary exchanges (Ame and Rent Token) using BlockChain cryptographic account reporting, digital asset special ledger. immutable technology for transparency and accountability It also supports real-time reporting. This makes it possible to submit the delivery of electric power to the enterprise and issue a bill of energy trading.
    
-      Ample Energy run in platform. The technology on cross  microgrid plug connect to follow up. Real-time energy trading and also is decentralized 
-pool-based lending protocol built .Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol.
+      AME run in platform. The technology on cross microgrid plug connect to follow up. Real-time energy trading and also is decentralized
+      pool-based lending protocol built .Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol.
 
       Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest 
 on their digital assets (assets) by supplying supported assets into the protocol. We call these users lenders. Assets deposited by lenders 
@@ -20,7 +20,8 @@ to borrow. Loans are not matched individually between lenders and borrowers, but
 come from interest that borrowers pay, distributed proportionately to the liquidity they provide.
 
 concept and benefits ::
-        Ample energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”. under the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”
+        Ample energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”.
+under the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/energy_diagram.jpg" />
 
