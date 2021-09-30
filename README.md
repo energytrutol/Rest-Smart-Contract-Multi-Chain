@@ -1,7 +1,7 @@
 # ame-transmit-electricity-smart-contract-cross-chain
 A diagram showing the transmission of electricity to the public.
 
-<img src="https://github.com/Energytrutol/ame-transmit-electricity-smart-contract-cross-chain/images/logobaner.png" />
+<img src="https://github.com/energytrutol/ame-transmit-electricity-smart-contract-cross-chain/blob/main/images/logobaner.png" />
 
 Industry model ::
     Renewable Energy Power Plant Industry Development Research Division
