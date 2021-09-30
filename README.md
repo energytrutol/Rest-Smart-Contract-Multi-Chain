@@ -27,7 +27,7 @@ pool-based lending protocol built .Users can earn interest on their digital asse
 concept and benefits ::
         Ample Energy run in a blockchain platform (BSC). The technology allows users to interact on the microgrid to follow up. Real-time energy buying, selling and trading This helps create a resilient power industry system that is both resilient and stable. under the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”
 
-<img src="https://github.com/energytrutol/ame-transmit-electricity-smart-contract-cross-chain/blob/main/images/energy_diagram.png" />
+<img src="https://github.com/energytrutol/ame-transmit-electricity-smart-contract-cross-chain/blob/main/images/energy_diagram.jpg" />
 ![Image of Ame Smart Microgride Plug Connect](https://github.com/energytrutol/ame-transmit-electricity-smart-contract-cross-chain/blob/master/images/energy_diagram.png)
 
 ## Note
