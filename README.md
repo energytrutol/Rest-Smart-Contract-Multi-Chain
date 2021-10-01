@@ -28,7 +28,7 @@ concept and benefits ::
         Ample energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”.
 under the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”
 
-<img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/hub-connect-microgride-smart-chain.svg" />
+<img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/hub-connect-microgride-smart-chainx.svg" />
 
 
 ## Note
