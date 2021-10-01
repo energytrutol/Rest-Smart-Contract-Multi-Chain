@@ -2,7 +2,7 @@
  <h1>Ame-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
-
+<br><br>
  <p>
     <a href="https://app.travis-ci.com/energytrutol/ame-liquidity"><img alt="Build Status" src="https://app.travis-ci.com/energytrutol/ame-liquidity.svg?branch=main" /></a>
     <a href="https://discord.com/channels/890451181862797324"><img alt="Discord Chat" src="https://img.shields.io/discord/890451181862797324?color=blueviolet" /></a>
