@@ -24,7 +24,7 @@
   </h4>
 </div>
 
-Industry model ::
+Industry model ::<br>
     Renewable Energy Power Plant Industry Development Research Division
 Solar Farm Renewable Power Plant Industry  Ample Energy (AME),  will connect the cryptocurrency market with the renewable energy power plant industry, EV vehicle power station and retail through.  Renewable Energy Trading (Corporate — Community)
 
@@ -33,7 +33,7 @@ Technology and working principle ::
   
   <div align="center">
   <p>
-    <strong>A Diagram Showing the Transmission of Electricity to the Public. </strong>
+ <h4> <strong>A Diagram Showing the Transmission of Electricity to the Public. </strong></h4>
   </p>
  </div> 
  
