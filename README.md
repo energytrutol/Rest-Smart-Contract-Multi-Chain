@@ -1,4 +1,4 @@
-
+<div align="center">
  <h1>Ame-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
@@ -6,6 +6,24 @@
     <strong>A diagram showing the transmission of electricity to the public. </strong>
   </p>
 
+ <p>
+    <a href="https://app.travis-ci.com/energytrutol/ame-liquidity"><img alt="Build Status" src="https://app.travis-ci.com/energytrutol/ame-liquidity.svg?branch=main" /></a>
+    <a href="https://discord.com/channels/890451181862797324"><img alt="Discord Chat" src="https://img.shields.io/discord/890451181862797324?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/energytrutol/ame-liquidity?color=blue" /></a>
+    <a href="https://img.shields.io/github/contributors/energytrutol/ame-liquidity" /><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/energytrutol/ame-liquidity?color=yellow"></a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/energytrutol?color=blue&logoColor=green&style=social">
+  </p>
+
+  <h4>
+    <a href="https://amev.io/">Website</a>
+    <span> | </span>
+    <a href="https://github.com/energytrutol/aws-ame">Awesome</a>
+    <span> | </span>
+    <a href="https://edex.amev.io/#/">edaX</a>
+    <span> | </span>
+    <a href="https://github.com/energytrutol/ame-ts">TypeScript</a>
+  </h4>
+</div>
 
 Industry model ::
     Renewable Energy Power Plant Industry Development Research Division
