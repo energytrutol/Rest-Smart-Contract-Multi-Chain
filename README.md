@@ -35,7 +35,7 @@ Technology and working principle ::
   <p>
  <h2> A Diagram Showing the Transmission of Electricity to the Public. </h2>
   </p>
- </div> 
+ </div><br> 
  
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/diagram-lending.svg" />
      
