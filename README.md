@@ -2,9 +2,6 @@
  <h1>Ame-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
- <p>
-    <strong>A diagram showing the transmission of electricity to the public. </strong>
-  </p>
 
  <p>
     <a href="https://app.travis-ci.com/energytrutol/ame-liquidity"><img alt="Build Status" src="https://app.travis-ci.com/energytrutol/ame-liquidity.svg?branch=main" /></a>
