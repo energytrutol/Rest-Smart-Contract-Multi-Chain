@@ -33,7 +33,7 @@ Technology and working principle ::
   
   <div align="center">
   <p>
- <h4> <strong>A Diagram Showing the Transmission of Electricity to the Public. </strong></h4>
+ <h2> A Diagram Showing the Transmission of Electricity to the Public. </h2>
   </p>
  </div> 
  
