@@ -39,7 +39,15 @@ Technology and working principle ::
  
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/diagram-lending.svg" />
      
-      De-fi Lending ::
+     # Writing a Project Adapter
+
+Let's take a look at the template project to see a minimal example of an adapter. Each project gets it's own sub-directory under `/projects`, with an index.js file containing the main code and settings.
+
+```
+projects De-fi Lending ::
+└───_template
+    └───index.js
+``` 
   <p>
     <strong>  AME run in platform, The technology on cross microfrid plug connect to follow up. Real-time energy trading and also in decentralized pool-based lending protocol built.
 Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. </strong></p>
