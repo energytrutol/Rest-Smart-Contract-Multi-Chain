@@ -41,12 +41,12 @@ Technology and working principle ::
      
      # Writing a Project Adapter
 
-Let's take a look at the template project to see a minimal example of an adapter. Each project gets it's own sub-directory under `/projects`, with an index.js file containing the main code and settings.
+Let's take a look at the calculate the value to see a minimal example of an adapter. Each project gets it's own sub-directory under `/contracts`, with an lendingpool.sol file containing the main code and settings.
 
 ```
 projects De-fi Lending ::
-└───_template
-    └───index.js
+└───contracts
+    └───lendingpool.sol
 ``` 
   <p>
     <strong>  AME run in platform, The technology on cross microfrid plug connect to follow up. Real-time energy trading and also in decentralized pool-based lending protocol built.
