@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Ame-Smart-Contract-Cross-Chain</h1>
+ <h1>Rest-Smart-Contract-Cross-Chain</h1>
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/ame-solar-energy.jpg" />
 <br><br>
