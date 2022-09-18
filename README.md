@@ -47,6 +47,7 @@ Let's take a look at the calculate the value to see a minimal example of an adap
 projects De-fi Lending ::
 └───contracts
     └───lendingpool.sol
+    └───rest.sol
 ``` 
   <p>
     <strong>  AME run in platform, The technology on cross microfrid plug connect to follow up. Real-time energy trading and also in decentralized pool-based lending protocol built.
@@ -56,7 +57,7 @@ Users can earn interest on their digital assets (assets) by supplying supported 
  <strong>  Rest Lending is a decentralized pool-based lending protocol built on on cross chain Ethereum + BSC. Users can earn interest on their digital assets (assets) by supplying supported assets into the protocol. We call these users lenders. AME and Rest deposited by lenders will be transferred into a smart contract that aggregates total liquidity of each asset into a pooled fund, which is available for borrowers,to borrow. Loans are not matched individually between lenders and borrowers, but are taken from the pooled fund. Interest lenders earn come from interest that borrowers pay, distributed proportionately to the liquidity they provide.</strong></p>
 
 concept and benefits ::
-        Ample energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”.
+        Ample Energy is created under  the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”.
 under the concept "Creator of change with technology in the renewable energy industry giving sustainability to every community”
 
 <img src="https://github.com/energytrutol/ame-smart-contract-cross-chain/blob/main/images/hub-connect-microgride-smart-chain.svg" />
@@ -76,10 +77,12 @@ See individual crates for documentation. For example, to build the edax see its 
 
 ## Running a local Edax Chain cluster
 
-
- Website: https://amev.io/</br>
+ Web Office: https://aprcorp.co.th</br>
+ Web Project: https://amev.io/</br>
  Twitter: https://twitter.com/energytrutol</br>
  Blog: https://blog.amev.io/</br>
- Telegram: https://t.me/amethailand</br>
- Discord: https://discord.gg/xB7NdWVm2M
+ Telegram: https://t.me/restcomunity</br>
+ Discord: https://discord.gg/xB7NdWVm2M</br>
+ Youtube: https://www.youtube.com/channel/UC59Em9cYEQfcWs7HHm2727A</br>
+ Linkedin: https://www.linkedin.com/company/amplerichinvestor</br>
 
