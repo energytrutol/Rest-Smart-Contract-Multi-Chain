@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 // Ample Rich Investor Corporation
 
+/**
+ * @title Real Estate Lending pool contract
+ * @notice Implements the core contract of lending pool De-fi V4.
+ * this contract manages all states and handles user interaction with the pool.
+ * @author Ample Energy APRCORP
+ **/
+
+
 pragma solidity ^0.8.0;
 
 abstract contract Context {
