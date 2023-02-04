@@ -77,12 +77,11 @@ See individual crates for documentation. For example, to build the edax see its 
 
 ## Running a local Edax Chain cluster
 
- Web Office: https://aprcorp.co.th</br>
- Web Project: https://amev.io/</br>
+ Web Office: https://www.energytrutol.com</br>
+ Web Project: https://www.amev.io/</br>
  Twitter: https://twitter.com/energytrutol</br>
- Blog: https://blog.amev.io/</br>
  Telegram: https://t.me/restcomunity</br>
  Discord: https://discord.gg/xB7NdWVm2M</br>
  Youtube: https://www.youtube.com/channel/UC59Em9cYEQfcWs7HHm2727A</br>
- Linkedin: https://www.linkedin.com/company/amplerichinvestor</br>
+ Linkedin: https://www.linkedin.com/in/energytrutol</br>
 
